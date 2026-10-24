@@ -1,0 +1,25 @@
+header{
+	background-color: #f8f9fa;
+}
+
+.typ{
+	 font-family: "Montserrat", sans-serif;
+}
+
+.parr{
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	background-color: #e31837;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.for{
+	padding: 4%;
+}
